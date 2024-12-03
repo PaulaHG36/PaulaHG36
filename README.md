@@ -1,4 +1,4 @@
-# Hi there, I am Paula <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# Hi there, I am Paula <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ### About me:  🌾
 - I am a student at [Cev](https://www.cev.com/tecnico-superior-en-desarrollo-de-aplicaciones-multiplataforma/) school
